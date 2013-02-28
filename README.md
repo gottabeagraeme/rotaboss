@@ -1,2 +1,4 @@
 rotaboss
 ========
+
+Rota management software
